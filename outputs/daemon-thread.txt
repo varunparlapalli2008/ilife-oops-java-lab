@@ -1,0 +1,5 @@
+﻿Daemon task 1
+Daemon task 2
+Daemon task 3
+Daemon task 4
+Main thread ends; daemon stops automatically.

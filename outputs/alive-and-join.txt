@@ -1,0 +1,6 @@
+﻿Alive before start: false
+Alive after start: true
+Worker step 1
+Worker step 2
+Worker step 3
+Alive after join: false
